@@ -3,3 +3,5 @@
 ## Header 2
 # Header 1 again
 ###### Header 6
+
+![Image of a gray cat being held](https://i.imgur.com/tx7ZCVv.jpeg)
