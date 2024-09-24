@@ -11,3 +11,10 @@ var add2 = function(number) {
   return number + 2;
 }
 ```
+
+- [x] Add a header
+- [x] Add an image
+- [x] Add a code block
+- [x] Add a list
+- [ ] Add an Horizontal Line
+- [x] :D
